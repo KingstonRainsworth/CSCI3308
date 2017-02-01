@@ -1,2 +1,4 @@
 Hello World
-This is file is going to giit
+This is file is going to git
+Vim is stupid
+This is a change created in a branch
